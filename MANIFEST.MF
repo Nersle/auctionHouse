@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: auction.client.view.login
+Class-Path: . extra_lib/jcommon-1.0.18.jar extra_lib/jfreechart-1.0.14.jar extra_lib/msbase.jar extra_lib/mssqlserver.jar extra_lib/msutil.jar extra_lib/mysql-connector-java-5.1.31-bin.jar
+Created-By: Kun Sun
